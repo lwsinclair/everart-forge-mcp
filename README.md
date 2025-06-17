@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nickbaumann98-everart-forge-mcp-badge.png)](https://mseep.ai/app/nickbaumann98-everart-forge-mcp)
+
 # EverArt Forge MCP for Cline
 
 ![EverArt Forge MCP](icon.svg)
